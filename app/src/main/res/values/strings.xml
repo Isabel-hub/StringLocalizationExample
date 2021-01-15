@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">String Localization</string>
+    <string name="hello_world">Hello World</string>
+    <string name="donate">Donate</string>
+    <string name="toast">Donate and put a smile on someone</string>
+
+</resources>

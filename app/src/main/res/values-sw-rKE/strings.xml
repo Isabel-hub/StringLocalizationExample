@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kwa lugha nyingine</string>
+    <string name="hello_world">Habari Nyote</string>
+    <string name="donate">Peana Mchango</string>
+    <string name="toast">Habari</string>
+</resources>
